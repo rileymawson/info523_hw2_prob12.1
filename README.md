@@ -1,2 +1,4 @@
-# info523_hw2_prob12.1
-Creating a repo with the data in HW2 problem 12.1
+Intro
+=====
+
+Course materials for "Introduction to Data Science with R", a video course by RStudio and O'Reilly Media. To purchase the course, or watch sample lessons, visit [http://shop.oreilly.com/product/0636920034834.do](http://shop.oreilly.com/product/0636920034834.do).
