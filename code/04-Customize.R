@@ -186,5 +186,6 @@ tx + scale_fill_brewer(
 # ----------------------------------------
 
 # Where to go from here
-
+# Here is a comment just to represent a change to this file. 
+# I don't have anything of value to add to this, so I think this will have to do.
 # More useful packages
